@@ -20,8 +20,8 @@ const HeroPage = () => {
             projects. Let's connect and bring your ideas to life!
 
           </p>
-          <a href="https://drive.google.com/file/d/1UdrVaW98cV1Eg6ZjcvedJv8bhJBYFDh7/view?usp=drive_link" target="_blank">
-            <button>Download Resume</button>
+          <a href="https://drive.google.com/file/d/1r3BswIPlyW-A8KBXt4VPZa6cGCn9r7T4/view?usp=sharing" target="_blank">
+            <button className="btn-1">Download Resume</button>
           </a>
         </div>
       </div>
