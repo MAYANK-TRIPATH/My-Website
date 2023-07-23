@@ -88,6 +88,14 @@ p {
     height: 200px;
   }
 
+  @media only screen and (max-width: 480px) {
+    /* Adjust hero image size for even smaller screens */
+    .hero-image {
+      width: 200px;
+      height: 150px;
+    }
+  }
+
   /* Adjust margins for hero info */
   .hero-info {
     margin: 10px;

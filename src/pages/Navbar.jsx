@@ -22,13 +22,13 @@ const Navbar = () => {
         </a>
       </div>
       <div className="navbar-middle">
-        <a href="/Hero" onClick={() => scrollToSection('Hero')}>
+        <a href="#" onClick={() => scrollToSection('Hero')}>
           About
         </a>
-        <a href="/Project" onClick={() => scrollToSection('Project')}>
+        <a href="#" onClick={() => scrollToSection('Project')}>
           Projects
         </a>
-        <a href="/Blogs" onClick={() => scrollToSection('Blogs')}>
+        <a href="#" onClick={() => scrollToSection('Blogs')}>
           Blogs
         </a>
       </div>
